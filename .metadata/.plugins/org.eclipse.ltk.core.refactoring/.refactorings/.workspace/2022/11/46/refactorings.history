@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 0 elements to &apos;dio.gof.singleton.Test.java&apos;&#x0D;&#x0A;- Destination element: &apos;dio.gof.singleton.Test.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="=lab-padroes-projeto-java/src&lt;dio.gof.singleton{Test.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1667965893824" units="0" version="1.0"/>
+</session>

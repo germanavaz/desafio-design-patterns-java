@@ -1,0 +1,11 @@
+package dio.gof;
+
+public class SingletonEagler {
+	
+	private static SingletonEager instancia;
+	
+	private SingletonEager() {
+		
+	}
+
+}
